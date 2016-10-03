@@ -1,0 +1,42 @@
+[
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-1787730795",
+  "source": {
+   "name": "Question 1",
+   "showName": false,
+   "instructions": "**Select correct answers from the available list**",
+   "points": "1",
+   "showValues": true,
+   "text": "|Test number  | Test data| Expected result| Actual result| Type of test|\n| :------ | :----------- |:----------- |:----------- |:----------- |\n| 1 | <<<A1BCac3D>>> |Accepted |<<<Accepted>>> |Valid test |\n| 2 | C3abcdef |<<<Accepted>>> |<<<Accepted>>> |<<<Boundary test>>> |\n| 3 | C3abcdef |<<<Error message>>> |Error message |<<<Erroneous test>>> |",
+   "tokens": {
+    "blank": [
+     "A1BCac3D",
+     "Accepted",
+     "Accepted",
+     "Accepted",
+     "Boundary test",
+     "Error message",
+     "Erroneous test"
+    ],
+    "text": [
+     "|Test number  | Test data| Expected result| Actual result| Type of test|\n| :------ | :----------- |:----------- |:----------- |:----------- |\n| 1 | ",
+     0,
+     " |Accepted |",
+     0,
+     " |Valid test |\n| 2 | C3abcdef |",
+     0,
+     " |",
+     0,
+     " |",
+     0,
+     " |\n| 3 | C3abcdef |",
+     0,
+     " |Error message |",
+     0,
+     " |"
+    ]
+   }
+  }
+ }
+]
