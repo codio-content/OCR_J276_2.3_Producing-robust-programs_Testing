@@ -5,7 +5,7 @@ The types test data should include:
 
 **Boundary test** where the highest or lowest acceptable numbers and those just outside the acceptable range are entered. These check any logical errors that might have been introduced using the <= and >= operators.
 
-**erroneous test** where data that should be rejected are deliberately input to check that validation routines are functioning as expected (sometimes called an ‘out-of-range test’)
+**Erroneous test** where data that should be rejected are deliberately input to check that validation routines are functioning as expected (sometimes called an ‘out-of-range test’)
 
 An example of a test plan is shown below to test part of a program where a user is asked to enter the month of their birth as a number:
 
