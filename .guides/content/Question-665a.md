@@ -11,5 +11,5 @@ Complete the following test plan:
 | :------ | :----------- |:----------- |:----------- |:----------- |
 | 1 | **A1BCac3D** |Accepted |**Accepted** |Valid test |
 | 2 | C3abcdef |**Accepted** |**Accepted** |**Boundary test** |
-| 3 | C3abcdef |**Error message** |Error message |**Erroneous test** |
+| 3 | Cabcdefg |**Error message** |Error message |**Erroneous test** |
 |||
